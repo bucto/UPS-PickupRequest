@@ -1,0 +1,8 @@
+# Datenbank-Passwörter ignorieren
+config/db.ini
+
+# Falls du Log-Dateien vom Cronjob hast
+scripts/*.log
+
+# Windows Systemdateien
+Thumbs.db

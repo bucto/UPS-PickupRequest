@@ -1,0 +1,5 @@
+[database]
+host = "localhost"
+user = "mein_user"
+pass = "mein_passwort"
+name = "meine_datenbank"
