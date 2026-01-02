@@ -35,7 +35,7 @@ $langs = [
         'shipping_note' => 'AMADA übernimmt die Frachtkosten nur im Falle einer Rücksendung über UPS, Verwendung des UPS-Retourenlabels und Einhaltung der folgenden Gewichtsbegrenzung...',
         'weight_limit' => 'MAXIMALES PACKSTÜCKGEWICHT: 32 kg',
         'volume_calc' => 'VOLUMENGEWICHT = (L x B x H in cm) / 5.000',
-        'contact_note' => 'Packstücke ÜBER 32 kg nur nach Rücksprache mit AMADA GmbH!',
+        'contact_note' => 'Packstücke ÜBER 32 kg nur nach Rücksprache mit der AMADA GmbH!',
         'legal_privacy' => 'Datenschutz', 'legal_agb' => 'AGB', 'legal_impressum' => 'Impressum',
         'privacy_notice' => 'Ich habe die <a href="https://www.amada.eu/de-de/datenschutz/" target="_blank">Datenschutzerklärung</a> gelesen und akzeptiere diese.',
         'countries' => ['BG'=>'Bulgarien','DE'=>'Deutschland','NL'=>'Niederlande','AT'=>'Österreich','PL'=>'Polen','RO'=>'Rumänien','CZ'=>'Tschechische Republik','HU'=>'Ungarn'],
